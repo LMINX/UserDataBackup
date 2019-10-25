@@ -106,3 +106,4 @@ Function Get-UserData {
     #Get-UserData -ComputerName $env:COMPUTERNAME
     
     Get-UserData #-ComputerName rnlq03404pc001
+#pull test
