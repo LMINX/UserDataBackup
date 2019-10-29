@@ -1,4 +1,4 @@
-
+#pull test byself
 -------------------------------------------------------------------------------
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
@@ -16,16 +16,28 @@
 	                  16	C:\Users\gliu10\
 	*EXTRA Dir        -1	\\rnlq03404sv001\storeshared$\$RECYCLE.BIN\
 	*EXTRA Dir        -1	\\rnlq03404sv001\storeshared$\System Volume Information\
-	    New File  		      55	.bluejeans  0%  100%  
-	    New File  		     196	.gitconfig  0%  100%  
-	    New File  		   24576	DynamicProfileClient.exe  0%  100%  
-	    New File  		   88576	DynamicProfileTray.exe  0%  100%  
-	    New File  		   10752	DynaProf.exe  0%  100%  
+	    New File  		      55	.bluejeans
+  0%  
+100%  
+	    New File  		     196	.gitconfig
+  0%  
+100%  
+	    New File  		   24576	DynamicProfileClient.exe
+  0%  
+100%  
+	    New File  		   88576	DynamicProfileTray.exe
+  0%  
+100%  
+	    New File  		   10752	DynaProf.exe
+  0%  
+100%  
 	    New File  		   6.5 m	NTUSER.DAT
 2019/10/16 21:07:49 ERROR 32 (0x00000020) Copying File C:\Users\gliu10\NTUSER.DAT
-The process cannot access the file because it is being used by another process.
+The process cannot access the file because it is being used by another process.
+
 Waiting 30 seconds... Retrying...
 	    New File  		   6.5 m	NTUSER.DAT
 2019/10/16 21:08:19 ERROR 32 (0x00000020) Copying File C:\Users\gliu10\NTUSER.DAT
-The process cannot access the file because it is being used by another process.
+The process cannot access the file because it is being used by another process.
+
 Waiting 30 seconds...

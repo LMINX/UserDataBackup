@@ -1,4 +1,5 @@
-<#Date:2019/110/16
+<#Date:2019/11/16
+#pull test self
 Author:George Liu
 Description: Backup the user Data Before Reimaging
 Detail:
@@ -106,4 +107,6 @@ Function Get-UserData {
     #Get-UserData -ComputerName $env:COMPUTERNAME
     
     Get-UserData #-ComputerName rnlq03404pc001
-#pull test
+#pull test from vscode 
+
+#pull test from vscode 2
