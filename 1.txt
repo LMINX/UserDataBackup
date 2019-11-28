@@ -34,12 +34,11 @@
 	    New File  		   6.5 m	NTUSER.DAT
 2019/10/16 21:07:49 ERROR 32 (0x00000020) Copying File C:\Users\gliu10\NTUSER.DAT
 The process cannot access the file because it is being used by another process.
-
+ 
 Waiting 30 seconds... Retrying...
 	    New File  		   6.5 m	NTUSER.DAT
 2019/10/16 21:08:19 ERROR 32 (0x00000020) Copying File C:\Users\gliu10\NTUSER.DAT
-The process cannot access the file because it is being used by another process.
-
+add some code in line 42
 Waiting 30 seconds...
 
 PR test 2 
